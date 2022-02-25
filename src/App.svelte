@@ -105,7 +105,7 @@
 <p>Namun, data NHMS 2019 menunjukkan kadar bantut kanak-kanak daripada keluarga dengan pendapatan isi rumah lebih RM10,000 sebulan tetap tinggi (9.1 peratus).</p>
 <p>Kadar ini masih lebih tinggi berbanding kadar penanda aras negara berpendapatan sederhana tinggi iaitu 6.0 peratus. Ini menunjukkan masalah bantut merentasi semua peringkat pendapatan.</p>
 
-<p><iframe class="flourish-embed-iframe" frameborder="0" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation" scrolling="no" src="https://flo.uri.sh/visualisation/8742111/embed" style="width:100%;height:600px;" title="Interactive or visual content"></iframe></p>
+<p><iframe class="flourish-embed-iframe" frameborder="0" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation" scrolling="no" src="https://flo.uri.sh/visualisation/8805551/embed" style="width:100%;height:600px;" title="Interactive or visual content"></iframe></p>
 
 <p>Kadar bantut juga tinggi dalam kalangan semua kumpulan etnik. Prevalens paling rendah dalam kalangan kaum Cina, tetapi pada kadar 14.1 peratus, ianya tetap tinggi.</p>
 
