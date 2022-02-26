@@ -35,13 +35,6 @@
                     Oleh <span class="author-name font-weight-bold text-white">
                     Sakina Mohamed, Wan Muhammad Aslah Wan Razali & Muhammad Mikhail Mohazar</span>
                 </p>
-                <p class="mb-5 text-white">
-                    Ilustrasi oleh <span class="author-name font-weight-bold text-white">Ummul Syuhaida Othman
-                    </span>
-                </p>
-                <p class="mb-5 text-white">
-                    Infografik oleh <span class="author-name font-weight-bold text-white">Zabariah Iberahim & Muhamad Adib Zainal Abidin</span>
-                </p>
             </div>
         </div>
     </div>
@@ -117,19 +110,21 @@
 <p>Himpunan data jelas menunjukkan masalah bantut berlaku di seluruh Malaysia, merentasi rakyat pelbagai latar belakang dan pada tahap serius.</p>
 <p>Kita harus akui, masalah malnutrisi di Malaysia amat membimbangkan. Jika isu ini gagal ditangani  dengan segera dan berkesan, kita jugalah yang bakal menanggung akibatnya.</p>
 
-
             </div>
             <div class="entry-bottom mt-50 mb-30 wow fadeIn animated">
                 <div class="tags">
                     <span>Tags: </span>
-                    <a href="https://garasi.bernama.com/tags/StuntingInMalaysia" rel="tag">StuntingInMalaysia</a>
+                    <a href="https://garasi.bernama.com/tags/Bantut" rel="tag">Bantut</a>
+                    <a href="https://garasi.bernama.com/tags/BantutDiMalaysia" rel="tag">BantutDiMalaysia</a>
                     <a href="https://garasi.bernama.com/tags/DerekKok" rel="tag">DerekKok</a>
-                    <a href="https://garasi.bernama.com/tags/Malnutrition" rel="tag">Malnutrition</a>
-                    <a href="https://garasi.bernama.com/tags/WHO" rel="tag">WHO</a>
-                    <a href="https://garasi.bernama.com/tags/ChildHunger" rel="tag">ChildHunger</a>
-                    <a href="https://garasi.bernama.com/tags/MaternalHealth" rel="tag">MaternalHealth</a>
                     <a href="https://garasi.bernama.com/tags/NHMS" rel="tag">NHMS</a>
-                    <a href="https://garasi.bernama.com/tags/Bernama" rel="tag">Bernama</a>
+                    <a href="https://garasi.bernama.com/tags/Pendek" rel="tag">Pendek</a>
+                    <a href="https://garasi.bernama.com/tags/Kanak-Kanak" rel="tag">Kanak-Kanak</a>
+                    <a href="https://garasi.bernama.com/tags/Malnutrisi" rel="tag">Malnutrisi</a>
+                    <a href="https://garasi.bernama.com/tags/WHO" rel="tag">WHO</a>
+                    <a href="https://garasi.bernama.com/tags/WorldBank" rel="tag">WorldBank</a>
+                    <a href="https://garasi.bernama.com/tags/Kesihatan" rel="tag">Kesihatan</a>
+                    <a href="https://garasi.bernama.com/tags/Malaysia" rel="tag">Malaysia</a>
                 </div>
             </div>
             <div class="single-social-share clearfix wow fadeIn animated">
@@ -142,9 +137,16 @@
             <!--author box-->
             <div class="author-bio p-30 mt-50 border-radius-10 bg-white wow fadeIn animated">
                 <div class="author-info">
-                    <div class="author-description"><i>
-                    This story was produced with the financial support of the European Union in the form of a grant from Internews Malaysia. Its contents are the sole responsibility of Internews and do not necessarily reflect the views of the European Union.
-                    </i>
+                    <div class="author-description">
+                        <p><b>Ketua projek & Editor</b>: Sakina Mohamed</p>
+                        <p><b>Penyelidik & Penulis</b>: Sakina Mohamed, Muhammad Mikhail Mohazar & Wan Muhammad Aslah Wan Ghazali</p>
+                        <p><b>Visualisasi Flourish</b>: Muhammad Mikhail Mohazar</p>
+                        <p><b>Developer</b>: Rafizan Baharum</p>
+                        <p><b>Pelukis</b>: Ummul Syuhaida Othman</p>
+                        <p><b>Infografik</b>: Zabariah Iberahim & Muhamad Adib Zainal Abidin</p>
+
+                        <i>Artikel ini diterbitkan oleh Garasi Bernama pada 25 Feb, 2022 dengan sokongan kewangan daripada Kesatuan Eropah dalam bentuk geran daripada Internews Malaysia. Kandungannya tanggungjawab penuh Internews dan tidak semestinya menggambarkan pandangan Kesatuan Eropah.
+                        </i>
                     </div>
                 </div>
             </div>
