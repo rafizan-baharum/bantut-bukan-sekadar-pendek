@@ -25,39 +25,13 @@
 </header>
 <!-- Start Main content -->
 <main class="bg-grey pb-30">
-    <div class="entry-header entry-header-style-2 pb-80 pt-80 mb-50 text-white" style="background-image: url(hero.png)">
+    <div class="entry-header entry-header-style-2 pb-80 pt-80 mb-50 text-white">
         <div class="container entry-header-content">
-            <div class="entry-meta align-items-center meta-2 font-small color-white">
+             <h1 class="entry-title mb-50 font-weight-900">
+                     KANAK-KANAK BANTUT: MEREKA BUKAN SEKADAR PENDEK
+             </h1>
+           <div class="entry-meta align-items-center meta-2 font-medium color-white">
                 <p class="mb-5 text-white">
-                    <br/>
-                    <br/>
-                    <br/>
-                    <br/>
-                    <br/>
-                    <br/>
-                    <br/>
-                    <br/>
-                    <br/>
-                    <br/>
-                    <br/>
-                    <br/>
-                    <br/>
-                    <br/>
-                    <br/>
-                    <br/>
-                    <br/>
-                    <br/>
-                    <br/>
-                    <br/>
-                    <br/>
-                    <br/>
-                    <br/>
-                    <br/>
-                    <br/>
-                    <br/>
-                    <br/>
-                    <br/>
-                    <br/>
                     Oleh <span class="author-name font-weight-bold text-white">
                     Sakina Mohamed, Wan Muhammad Aslah Wan Razali & Muhammad Mikhail Mohazar</span>
                 </p>
@@ -71,8 +45,7 @@
            <div class="entry-main-content wow fadeIn animated">
 
 
-<p><i>Satu daripada lima kanak-kanak di Malaysia terbantut – dan rakyat Malaysia perlu cakna. Masalah ini memberi kesan kepada semua.</i></p>
-<h1>KANAK-KANAK BANTUT: MEREKA BUKAN SEKADAR PENDEK</h1>
+<p class="text-muted"><i>Satu daripada lima kanak-kanak di Malaysia terbantut – dan rakyat Malaysia perlu cakna. Masalah ini memberi kesan kepada semua.</i></p>
 
 <p><i>"Apa masalahnya kalau anak saya pendek sikit? Biasalah tu, anak orang Malaysia. Takkan nak tinggi macam anak Mat Saleh."</i></p>
 <p>Komen yang mungkin tidak asing lagi dan sering juga kita dengar ketinggian anak "ikut keturunan".</p>
@@ -87,6 +60,10 @@
 
 <p>Jika masalah bantut tidak dikesan dan dibetulkan dalam tempoh 1,000 hari pertama kehidupan (sejak dalam kandungan sehingga usia dua tahun), impaknya kekal seumur hidup, demikian menurut Pertubuhan Kesihatan Sedunia (WHO).</p>
 <p>Namun, untuk memahami betapa seriusnya implikasi ke atas negara dan rakyat Malaysia, kita perlu melihat nilai kerugian yang dialami negara akibat masalah bantut ini.</p>
+
+<figure class="image mb-30 m-auto text-center border-radius-10">
+    <img class="border-radius-10" src="illustration1.png" alt="Stunting in Malaysia" />
+</figure>
 
 <h2>KITA SEMUA TERKESAN </h2>
 
@@ -171,10 +148,7 @@
                         <p><b>Ketua projek & Editor</b>: Sakina Mohamed</p>
                         <p><b>Penyelidik & Penulis</b>: Sakina Mohamed, Muhammad Mikhail Mohazar & Wan Muhammad Aslah Wan Ghazali</p>
                         <p><b>Visualisasi Flourish</b>: Muhammad Mikhail Mohazar</p>
-                        <p><b>Developer</b>: Rafizan Baharum</p>
                         <p><b>Pelukis</b>: Ummul Syuhaida Othman</p>
-                        <p><b>Infografik</b>: Zabariah Iberahim & Muhamad Adib Zainal Abidin</p>
-
                         <i>Artikel ini diterbitkan oleh Garasi Bernama pada 25 Feb, 2022 dengan sokongan kewangan daripada Kesatuan Eropah dalam bentuk geran daripada Internews Malaysia. Kandungannya tanggungjawab penuh Internews dan tidak semestinya menggambarkan pandangan Kesatuan Eropah.
                         </i>
                     </div>
