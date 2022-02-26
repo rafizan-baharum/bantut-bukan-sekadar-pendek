@@ -25,7 +25,7 @@
 </header>
 <!-- Start Main content -->
 <main class="bg-grey pb-30">
-    <div class="entry-header entry-header-style-2 pb-80 pt-80 mb-50 text-white">
+    <div class="entry-header entry-header-style-2 pb-80 pt-80 mb-50 text-white" style="background-image: url(hero.png)">
         <div class="container entry-header-content">
              <h1 class="entry-title mb-50 font-weight-900">
                      KANAK-KANAK BANTUT: MEREKA BUKAN SEKADAR PENDEK
