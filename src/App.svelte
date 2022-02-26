@@ -72,7 +72,7 @@
 
 
 <p><i>Satu daripada lima kanak-kanak di Malaysia terbantut – dan rakyat Malaysia perlu cakna. Masalah ini memberi kesan kepada semua.</i></p>
-<h2>KANAK-KANAK BANTUT: MEREKA BUKAN SEKADAR PENDEK</h2>
+<h1>KANAK-KANAK BANTUT: MEREKA BUKAN SEKADAR PENDEK</h1>
 
 <p><i>"Apa masalahnya kalau anak saya pendek sikit? Biasalah tu, anak orang Malaysia. Takkan nak tinggi macam anak Mat Saleh."</i></p>
 <p>Komen yang mungkin tidak asing lagi dan sering juga kita dengar ketinggian anak "ikut keturunan".</p>
