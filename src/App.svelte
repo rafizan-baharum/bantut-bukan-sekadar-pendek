@@ -16,7 +16,7 @@
                 </div>
                 <div class="col-md-9 col-xs-6 text-right header-top-right">
                     <a href="https://garasi.bernama.com/stories/stunting-is-not-just-about-being-short/">EN</a>
-                    <span class="vertical-divider mr-20 ml-20 d-none d-md-inline"></span>
+                    <span class="vertical-divider mr-20 ml-20"></span>
                     <a href="https://garasi.bernama.com/stories/bantut-bukan-sekadar-pendek/">BM</a>
                 </div>
             </div>
