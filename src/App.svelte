@@ -27,9 +27,6 @@
 <main class="bg-grey pb-30">
     <div class="entry-header entry-header-style-2 pb-80 pt-80 mb-50 text-white" style="background-image: url(hero.png)">
         <div class="container entry-header-content">
-            <h1 class="entry-title mb-50 font-weight-900">
-                    Kanak-Kanak Bantut: Mereka Bukan Sekadar Pendek
-            </h1>
             <div class="entry-meta align-items-center meta-2 font-small color-white">
                 <p class="mb-5 text-white">
                     Oleh <span class="author-name font-weight-bold text-white">
@@ -43,6 +40,10 @@
         <!--figure-->
         <article class="entry-wraper mb-50">
            <div class="entry-main-content wow fadeIn animated">
+
+
+<p><i>Satu daripada lima kanak-kanak di Malaysia terbantut – dan rakyat Malaysia perlu cakna. Masalah ini memberi kesan kepada semua.</i></p>
+<h2>KANAK-KANAK BANTUT: MEREKA BUKAN SEKADAR PENDEK</h2>
 
 <p><i>"Apa masalahnya kalau anak saya pendek sikit? Biasalah tu, anak orang Malaysia. Takkan nak tinggi macam anak Mat Saleh."</i></p>
 <p>Komen yang mungkin tidak asing lagi dan sering juga kita dengar ketinggian anak "ikut keturunan".</p>
