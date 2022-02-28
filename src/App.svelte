@@ -146,7 +146,7 @@
                 <div class="author-info">
                     <div class="author-description">
                         <p><b>Ketua projek & Editor</b>: Sakina Mohamed</p>
-                        <p><b>Penyelidik & Penulis</b>: Sakina Mohamed, Muhammad Mikhail Mohazar & Wan Muhammad Aslah Wan Ghazali</p>
+                        <p><b>Penyelidik & Penulis</b>: Sakina Mohamed, Muhammad Mikhail Mohazar & Wan Muhammad Aslah Wan Razali</p>
                         <p><b>Visualisasi Flourish</b>: Muhammad Mikhail Mohazar</p>
                         <p><b>Pelukis</b>: Ummul Syuhaida Othman</p>
                         <i>Artikel ini diterbitkan oleh Garasi Bernama pada 25 Feb, 2022 dengan sokongan kewangan daripada Kesatuan Eropah dalam bentuk geran daripada Internews Malaysia. Kandungannya tanggungjawab penuh Internews dan tidak semestinya menggambarkan pandangan Kesatuan Eropah.
